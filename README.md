@@ -7,6 +7,6 @@
 ### Current Stats:
 
 <p align="center">
- <img width="450" height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=Marinho-P&hide=prs&count_private=true&show_icons=true&theme=github_dark">
- <img width="340" height="154" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinho-P&layout=compact&theme=github_dark&hide=Makefile,Cmake,Shell,Starlark,M4,Html,teX&line_height=27">
+ <img width="450" height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=Miteus2004&hide=prs&count_private=true&show_icons=true&theme=github_dark">
+ <img width="340" height="154" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miteus2004&layout=compact&theme=github_dark&hide=Makefile,Cmake,Shell,Starlark,M4,Html,teX&line_height=27">
 </p>
