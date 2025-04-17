@@ -13,15 +13,15 @@
 
 | UC   | Name      | Description                                                                                                                                                   
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------
-| AED  | [STCP++](https://github.com/Miteus2004/AED-PROJ1)    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs |
-| AED  | [AirED](https://github.com/Miteus2004/AED-PROJ2)    | Airline Database Management System in C++ using several datastructures  |
-| BD   | [STCP++](https://github.com/Miteus2004/BD)    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs |
-| LDTS | [STCP++](https://github.com/Miteus2004/LDTS)    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs |
-| DA   | [TraveLog](https://github.com/Miteus2004/DA-PROJ2)  | A travel agency wants to organize routes and connections for its customers in the best possible way                |
-| ESOF | []()     |   |
-| LTW  | [O Comilão](https://github.com/Miteus2004/LTW) | Takeaway food web application using PHP and SQLite3 as server-side languages                                                                                  |
-| PFL  | [Barca](https://github.com/Miteus2004/PFL-PROJ1)     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                            | 
-| RCOM | [PTransfer](https://github.com/Miteus2004/RCOM.proj1)     |  Data connection protocol for transferring files between two computers                                                               |
+| AED  | [Timetable](https://github.com/Miteus2004/AED-PROJ1)    | A system capable of providing help to students to decide their timetable|
+| AED  | [Airline Managment System](https://github.com/Miteus2004/AED-PROJ2)    | Airline Database Management System in C++ using several datastructures  |
+| BD   | [SQL Database](https://github.com/Miteus2004/BD)    | An SQL database to manage tickets |
+| LDTS | [Centepide](https://github.com/Miteus2004/LDTS)    | A remake of the game called "Centepide" |
+| DA   | [Water Supply Management](https://github.com/Miteus2004/DA-PROJ2)  | A system capable of providing help to mange the system of water distribution, through Algorithms that manipulate Graphs                |
+| DA   | [Air Travel Flight Management System](https://github.com/Miteus2004/DA-PROJ2)  | A travel agency wants to organize routes and connections for its customers in the best possible way                |
+| ESOF | []()     | An app that helps students agend trips together |
+| LTW  | [SecondWave](https://github.com/Miteus2004/LTW) | A site in used to buy and sell products          |
+| PFL  | [Roadmap Analysis](https://github.com/Miteus2004/PFL-PROJ1)     |                                           | 
 | RCOM | [PTransfer](https://github.com/Miteus2004/RCOM.proj2)     |  Data connection protocol for transferring files between two computers                                                               |
-| LBAW |
-| IPC  |
+| LBAW | | A Q and A site to the students and professors of the University of Porto |
+| IPC  | |   |
