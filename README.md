@@ -24,5 +24,5 @@
 | RCOM | [PTransfer](https://github.com/Miteus2004/RCOM.proj2)     |  Data connection protocol for transferring files between two computers               |
 | PFL  | [Roadmap Analysis](https://github.com/Miteus2004/PFL-PROJ1)     | A map written in haskell where you can make use of various functions  |  
 | PFL  | [Anaash Game](https://github.com/Miteus2004/PFL-PROJ2)     | Anaash it is a board game where using algorythm minmax the player can play against a bot  |  
-<!--| LBAW | | A Q and A site to the students and professors of the University of Porto |-->
+<!--| LBAW | | A Q/A site to the students and professors of the University of Porto can use to solve problems related to the course|-->
 <!--| IPC  | |   |-->
