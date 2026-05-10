@@ -23,8 +23,8 @@
 | IA   | [Churn](https://github.com/Miteus2004/IA-PROJ2) | A model able to detect whether a certain costumer will exit the bank based on statistics him and it's account. |
 | C    | [Compilator](https://github.com/Miteus2004/C) | A java Compilator |
 | CG   | [Churn](https://github.com/Miteus2004/CG/tree/main/project) | A 3D project of a firefighter's helicopter being controlled by the user to simulate extinct the fire in a forest. |
-| CPD  | [1](https://github.com/Miteus2004/CPD/tree/main/assign1) | A matrix algorythm with paralled computing  |
-| CPD  | [2](https://github.com/Miteus2004/CPD/tree/main/assign2) | Using distributed Computing to create chatrooms where you can interact with a chatbot. |
+| CPD  | [Matrix](https://github.com/Miteus2004/CPD/tree/main/assign1) | A matrix algorythm with paralled computing  |
+| CPD  | [Chatbot](https://github.com/Miteus2004/CPD/tree/main/assign2) | Using distributed Computing to create chatrooms where you can interact with a chatbot. |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------
 | SGI  | [Living room](https://github.com/Miteus2004/SGI/tree/main/pw1) | A 3D model of a living room. |
 | SGI  | [Aquarium](https://github.com/Miteus2004/SGI/tree/main/pw2) | A 3D model of an aquarium. |
