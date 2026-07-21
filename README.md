@@ -25,10 +25,11 @@
 | CG   | [Churn](https://github.com/Miteus2004/CG/tree/main/project) | A 3D project of a firefighter's helicopter being controlled by the user to simulate extinct the fire in a forest. |
 | CPD  | [Matrix](https://github.com/Miteus2004/CPD/tree/main/assign1) | A matrix algorythm with paralled computing  |
 | CPD  | [Chatbot](https://github.com/Miteus2004/CPD/tree/main/assign2) | Using distributed Computing to create chatrooms where you can interact with a chatbot. |
-|      | MEIC |--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      | MEIC |   |
 | SGI  | [Living room](https://github.com/Miteus2004/SGI/tree/main/pw1) | A 3D model of a living room. |
 | SGI  | [Aquarium](https://github.com/Miteus2004/SGI/tree/main/pw2) | A 3D model of an aquarium. |
 | AC   | [WNBA Predictor](https://github.com/Miteus2004/AC) | An AI model that analyses and predicts using various algorythms most probable outcomes of the next WNBA season. |
 | PRI  | [WWs battls](https://github.com/Miteus2004/PRI) | A search engine with more than 1000 files with data about the battles that occurred during the 2 World Wars. |
-| SDLE | [Shopping Cloud](https://github.com/Miteus2004/SDLE) | A shareed shopping list via cloud with algorythms to solve various conflits  |
+| SDLE | [Shopping Cloud](https://github.com/Miteus2004/SDLE) | A shareed shopping list via cloud with algorythms to solve various conflits.  |
+| GRS | [Intent-Based Networking](https://github.com/Miteus2004/GRS) | An Intent-Based Networking (IBN) engine built in Python that automatically provisions and manages a complete network infrastructure from a declarative YAML state file. |
 
